@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "name": "krishnansh",
+            "email": "a@a.com",
+            "password": "$2b$10$cAcZeY.vv7I7frgbROs9TORE0PnExJqB0rPrpM9O5rFomEwJFD/Nm"
+        },
+        {
+            "name": "unnat",
+            "email": "b@b.com",
+            "password": "$2b$10$PfCcLmUJuh31aGREw7hzdu1srGITPXJHo5JZHgtnyTZ2sofWEuxLq"
+        },
+        {
+            "name": "unndfdfdst",
+            "email": "b@c.com",
+            "password": "$2b$10$0sPFNGMmYdjnVSTIxcBN4uHipxrNayrXQn5s5PldC8jYJHHNVW53q"
+        },
+        {
+            "name": "unndksfjffdfdst",
+            "email": "b@jfsdklc.com",
+            "password": "$2b$10$Y5/9s/YB0.RlrYlJN9Pzb.cjtzaNqYnnKbypQPyrTBXkOgVQm1/Qy"
+        },
+        {
+            "name": "unndksfjfsfdsfsdfdsffdfdst",
+            "email": "b@jdjfksdjfkldsjfldsfsdklc.com",
+            "password": "$2b$10$wu8KMWgIDhSNAot955tyHul5WePv9AQ8q8YndjFtJ6NrABG4zuk6a"
+        },
+        {
+            "name": "unndksfjfsfddsjfklsdjfldssfsdfdsffdfdst",
+            "email": "b@jdjfksdjfkldsjfldsfsdkdsjfksdlfjlc.com",
+            "password": "$2b$10$RFSVNkWSW9HHooo5yCfaCuZJ0jtSW10HiEj79Wyl4yabvkDJvfxg2"
+        }
+    ]
+}
